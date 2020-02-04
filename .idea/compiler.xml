@@ -7,6 +7,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-aop" />
+        <module name="springboot-maven-learn" />
         <module name="springboot-maven2" />
       </profile>
     </annotationProcessing>
@@ -18,6 +20,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Lesrn-springboot-sourse" options="-parameters" />
       <module name="springboot-aop" options="-parameters" />
+      <module name="springboot-maven-learn" options="-parameters" />
       <module name="springboot-maven2" options="-parameters" />
     </option>
   </component>

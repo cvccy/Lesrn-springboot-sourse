@@ -11,6 +11,7 @@
     <modules>
         <module>springboot-maven2</module>
         <module>springboot-aop</module>
+        <module>springboot-maven-learn</module>
     </modules>
 
     <parent>
