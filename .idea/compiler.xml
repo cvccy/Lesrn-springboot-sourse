@@ -10,6 +10,7 @@
         <module name="springboot-aop" />
         <module name="springboot-maven-learn" />
         <module name="springboot-maven2" />
+        <module name="springboot-multi-profile" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +23,7 @@
       <module name="springboot-aop" options="-parameters" />
       <module name="springboot-maven-learn" options="-parameters" />
       <module name="springboot-maven2" options="-parameters" />
+      <module name="springboot-multi-profile" options="-parameters" />
     </option>
   </component>
 </project>
